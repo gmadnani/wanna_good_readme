@@ -1,0 +1,23 @@
+{
+  "name": "wanna_good_readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmadnani/wanna_good_readme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmadnani/wanna_good_readme/issues"
+  },
+  "homepage": "https://github.com/gmadnani/wanna_good_readme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
