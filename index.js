@@ -1,4 +1,7 @@
 const inquirer = require('inquirer');
+const fs = require('fs');
+
+const generateReadMe = require('./utils/getdata');
 
 const readmeQuestions = [
     {
@@ -138,7 +141,10 @@ const readmeQuestions = [
 function init(){
     inquirer.prompt(readmeQuestions).then (function (data){
         console.log(data);
-    })
+        fs.writeFile("utils/README.md", generateReadMe(data), function(err){
+            if(err) console.log('error', err);
+        });
+    });
 }
 
 init();

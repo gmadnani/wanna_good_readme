@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/gmadnani/wanna_good_readme#readme",
   "dependencies": {
+    "fs": "*",
     "inquirer": "^8.2.0"
   }
 }
