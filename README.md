@@ -23,3 +23,4 @@ This can be used to create a README for your repo. You will need to install the 
 ## Website
 https://github.com/gmadnani/wanna_good_readme
 
+https://github.com/gmadnani/wanna_good_readme/blob/main/utils/README.md

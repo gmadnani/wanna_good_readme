@@ -1,10 +1,10 @@
-# xyz
+# Wanna Good Readme
 
-![License Badge](https://img.shields.io/github/license/gmadnani/xyz)
+![License Badge](https://img.shields.io/github/license/gmadnani/wanna_good_readme)
 
 ## Description
     
-nothing
+This is a readme generator
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ nothing
 npm install
 
 ## Usage
-everyone
+This can be used to create a new readme for your repo
 
 ## Contribution
 N/A
